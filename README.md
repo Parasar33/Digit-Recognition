@@ -8,12 +8,6 @@ This project implements a digit recognition system using an Artificial Neural Ne
 - [Technologies Used](#technologies-used)
 - [Dataset](#dataset)
 - [Model Architecture](#model-architecture)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Future Improvements](#future-improvements)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 This digit recognition system utilizes an ANN to classify images of handwritten digits. The primary goal is to provide an accurate and efficient model for recognizing digits in a variety of applications, such as form processing, educational tools, and automation tasks.
